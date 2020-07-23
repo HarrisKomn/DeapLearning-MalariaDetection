@@ -8,6 +8,8 @@ A CNN model is developed using Tensorflow. The network consists of three 3x3 con
 stride 2 for downsampling. At each downsampling step we double the number of feature channels. In order to evaluate the performance of our model, we demonstrate the train accuracy, the train loss,
 the validation accuracy and the validation loss in the following diagram. After 25 epochs validation accuracy is 92.92%.
 
+![image](https://user-images.githubusercontent.com/43147324/88307797-029be580-cd15-11ea-8fa3-42168d884612.png)
+
 
 
 
